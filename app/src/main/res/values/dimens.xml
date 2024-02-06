@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sizeUserAvatarNormal">72dp</dimen>
+    <dimen name="sizeBorderUserAvatarNormal">2dp</dimen>
+
+    <dimen name="sizeUserAvatarBig">144dp</dimen>
+    <dimen name="sizeBorderUserAvatarBig">4dp</dimen>
+
+</resources>
